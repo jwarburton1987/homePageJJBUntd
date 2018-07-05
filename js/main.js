@@ -516,7 +516,7 @@
         stop();
 
         //  Alert the user that time is up.
-        alert("Time Up!");
+        
       }
     }
 
